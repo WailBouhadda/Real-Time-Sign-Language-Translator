@@ -1,1 +1,1 @@
-# Real-Time-Bidirectional-Sign-Language-Translator
+# Real-Time-Sign-Language-Translator
