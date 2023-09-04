@@ -2,5 +2,7 @@ videos
 swf
 .ipynb_checkpoints
 Keypoints_Data
+points_Data
+Logs
 rtdetr-l.pt
 yolov8n.pt
